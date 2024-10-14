@@ -1,0 +1,12 @@
+2023-10-01 12:00:00 INFO Starting system check
+2023-10-01 12:00:01 ERROR Failed to load configuration file
+2023-10-01 12:00:02 WARN Configuration file missing, using defaults
+2023-10-01 12:00:03 INFO System check complete
+2023-10-01 12:05:00 INFO Starting backup process
+2023-10-01 12:05:01 INFO Backup process completed successfully
+2023-10-01 12:10:00 ERROR Network connection lost
+2023-10-01 12:10:01 INFO Attempting to reconnect
+2023-10-01 12:10:02 INFO Reconnection successful
+2023-10-01 12:15:00 WARN Disk space running low
+2023-10-01 12:20:00 INFO Disk cleanup initiated
+2023-10-01 12:25:00 INFO Disk cleanup completed

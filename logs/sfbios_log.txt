@@ -10,3 +10,17 @@
 2023-10-01 12:15:00 WARN Disk space running low
 2023-10-01 12:20:00 INFO Disk cleanup initiated
 2023-10-01 12:25:00 INFO Disk cleanup completed
+2023-10-01 12:30:00 INFO Starting system shutdown
+2023-10-01 12:30:01 INFO System shutdown complete
+2023-10-01 12:35:00 ERROR Failed to initialize hardware component
+2023-10-01 12:35:01 WARN Hardware component not responding, retrying
+2023-10-01 12:35:02 INFO Hardware component initialized successfully
+2023-10-01 12:40:00 INFO Starting system reboot
+2023-10-01 12:40:01 INFO System reboot complete
+2023-10-01 12:45:00 ERROR Unable to reach update server
+2023-10-01 12:45:01 INFO Retrying connection to update server
+2023-10-01 12:45:02 INFO Connection to update server established
+2023-10-01 12:50:00 WARN High memory usage detected
+2023-10-01 12:55:00 INFO Memory usage back to normal
+2023-10-01 13:00:00 INFO Starting scheduled maintenance
+2023-10-01 13:05:00 INFO Scheduled maintenance completed
